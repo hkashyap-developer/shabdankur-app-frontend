@@ -1,0 +1,15 @@
+.preMdTemp-otrBx {
+    display:flex; 
+  }
+  .preMdTemp-imgCont {
+    width:100%; 
+    margin:10px; 
+  }
+  .preMdTemp-image {
+    width:100%;
+  }
+  .preMdTemp-image:hover {
+      transform: scale(1.04);
+    cursor:pointer; 
+    transform:all; 
+  }  

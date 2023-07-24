@@ -1,0 +1,29 @@
+
+
+.downldBtn {
+     
+    border: none;
+    font-size: 24px;
+    padding: 12px 34px;
+    color: white;
+    background: rgb(36,167,64);
+    background: -moz-linear-gradient(74deg, rgba(36,167,64,1) 0%, rgba(1,105,34,1) 100%);
+    background: -webkit-linear-gradient(74deg, rgba(36,167,64,1) 0%, rgba(1,105,34,1) 100%);
+    background: linear-gradient(74deg, rgba(36,167,64,1) 0%, rgba(1,105,34,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#24a740",endColorstr="#016922",GradientType=1);
+    display: flex;
+    margin: 0 auto;
+    border-radius:50px;
+    transition: 1s;
+    cursor:pointer; 
+    margin-top:18px;
+}
+
+.downldBtn:hover {
+    background: rgb(36,167,64);
+    background: -moz-linear-gradient(90deg, rgba(36,167,64,1) 28%, rgba(1,105,34,1) 81%);
+    background: -webkit-linear-gradient(90deg, rgba(36,167,64,1) 28%, rgba(1,105,34,1) 81%);
+    background: linear-gradient(90deg, rgba(36,167,64,1) 28%, rgba(1,105,34,1) 81%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#24a740",endColorstr="#016922",GradientType=1);
+    transition: 1s;
+}

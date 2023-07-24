@@ -1,0 +1,14 @@
+.pstMkr-r0 {
+    background-color: #ebffee;
+    padding: 40px 0px;
+}
+.pstMkr-r1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+}
+.pstMkr-r1-stngs {
+    max-width: 520px;
+    margin: 0 auto;
+    padding: 40px;
+}

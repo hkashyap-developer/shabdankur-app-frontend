@@ -1,0 +1,20 @@
+.sbdnkrImg {
+    max-width:200px; 
+}  
+.creditsOtrBx {
+    text-align: center;
+    font-family: 'Montserrat';
+    color: #b9b9b9;
+}
+.hitCoutnerFtr {
+    display: flex;
+    justify-content: center;
+}
+.hitCoutnerFtr img {
+    width: 60px;
+}
+.ftrImg {
+    width:100%; 
+    margin-bottom: -8px;
+    filter: brightness(80%);
+}

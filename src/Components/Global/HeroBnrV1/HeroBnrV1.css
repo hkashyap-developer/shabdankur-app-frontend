@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');
+
+.heroCntnr {
+    padding:80px 0px; 
+    background-color:rgb(223, 223, 223); 
+    background-image:url(https://images.pexels.com/photos/7233117/pexels-photo-7233117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position:center center;
+    background-size:cover;
+}
+.heroBnrTitle {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    text-align: center;
+    font-size:80px; 
+    color:rgb(10, 10, 10) ; 
+}

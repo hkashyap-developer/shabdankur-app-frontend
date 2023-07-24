@@ -1,0 +1,12 @@
+input#myText {
+    width: 68%;
+    font-size: 18px;
+    
+    height: 32px;
+}
+button.nameUpdtBtn {
+    width: 30%;
+    font-size: 18px;
+    height: 38px;
+    max-height: 60px;
+}

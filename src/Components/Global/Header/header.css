@@ -1,0 +1,18 @@
+.headLogo {
+    width: 40px;
+}
+.brandLogo {
+    font-size:22px; 
+}
+.brndHeadCont {
+    display: flex;
+    justify-content:space-between;
+}
+.brndHeadCont-c1 {
+    display: flex;
+}
+.brndHeadCont-c2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
