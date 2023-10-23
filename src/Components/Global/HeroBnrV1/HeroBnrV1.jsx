@@ -5,7 +5,7 @@ const HeroBnrV1 = () => {
 
   return (
     <div className="heroCntnr">
-      <h1 className="heroBnrTitle">Shabdankur App</h1>
+      <h1 className="heroBnrTitle">Shabdankur App test</h1>
     </div>
   )
 }
